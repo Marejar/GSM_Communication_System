@@ -1,0 +1,4 @@
+command_handler.c:29:6:PARSE_SMS_MESSAGE	104	static
+command_handler.c:80:6:EXECUTE_COMMAND	24	static
+command_handler.c:92:6:turn_on_led	8	static
+command_handler.c:96:6:turn_off_led	8	static

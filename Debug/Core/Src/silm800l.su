@@ -1,0 +1,10 @@
+silm800l.c:7:6:check_module_info	24	static
+silm800l.c:14:6:check_signal_strength	24	static
+silm800l.c:21:6:check_network_connection	24	static
+silm800l.c:28:6:check_sim_number	24	static
+silm800l.c:35:6:set_text_mode	24	static
+silm800l.c:42:6:set_sms_recieve_format	24	static
+silm800l.c:49:6:sms_send	24	static
+silm800l.c:67:6:check_sms_sending_format	24	static
+silm800l.c:74:6:set_sms_send_format	24	static
+silm800l.c:82:6:EnorDi_command_echo	24	static

@@ -1,0 +1,2 @@
+lcd_handler.c:27:6:set_msg_to_print_on_lcd	16	static
+lcd_handler.c:39:6:print_on_lcd	8	static
