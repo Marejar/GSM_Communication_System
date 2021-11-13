@@ -13,7 +13,7 @@ static const char* set_sms_recieve_format_cmd = "AT+CNMI=1,2,0,0,0\r\n";
 static const char* set_sms_send_format_cmd = "AT+CSCS=\"GSM\"\r\n";
 
 //SMS SENDING HELPER MESSAGES
-static const char* sms_prepare_sending_cmd = "AT+CMGS=\"+48501297262\"\r";
+static const char* sms_prepare_sending_cmd = "AT+CMGS=\"+48xxxxxxxxx\"\r";
 static const char* sms_msg_temperature_exceeded = "Temperature exceeded!\r";
 static const char* sms_msg_temperature_correct = "Temperature back correct\r";
 static uint8_t sms_copy_symbol_msg = 0x1A; 			//ctrl+z ascii code
